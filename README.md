@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chris, a Junior IOS developer currently studying Software Engineering at UVU. I have experience with Python, Swift, SwiftUI and building mobile applications. 
+I'm Chris, an IOS developer. I have experience with Python, Swift, SwiftUI and building mobile applications. 
 
 Apps on App Store: Employed!, Road Pals, Convo Time 
 
